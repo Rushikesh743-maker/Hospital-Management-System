@@ -39,17 +39,6 @@ This project does not include login/authentication and focuses on basic database
 
 ---
 
-## 🗂️ Project Structure
-
-```
-/project-folder
-│── index.html
-│── doctors.php
-│── patients.php
-│── appointments.php
-│── db.php
-│── style.css
-```
 
 ---
 
@@ -79,18 +68,6 @@ This project does not include login/authentication and focuses on basic database
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Install XAMPP / WAMP
-2. Start Apache and MySQL
-3. Create a database (e.g., `hospital_db`)
-4. Import SQL tables
-5. Place project folder in `htdocs`
-6. Open browser and run:
-
-```
-http://localhost/project-folder
-```
 
 ---
 
@@ -122,7 +99,7 @@ http://localhost/project-folder
 
 ## 👨‍💻 Author
 
-Your Name
+Rushikesh Narke
 
 ---
 
