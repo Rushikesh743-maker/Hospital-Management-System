@@ -45,7 +45,7 @@ const Index = () => {
             Hospital Management
           </p>
           <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
-            Welcome to MediCare HMS
+            Welcome to MediSphere HMS
           </h1>
           <p className="mt-3 text-base opacity-90 sm:text-lg">
             Manage doctors, patients, and appointments — all in one clean, simple place.
